@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.play.space
+---
+testFramework: junit
+sourceLanguage: java
